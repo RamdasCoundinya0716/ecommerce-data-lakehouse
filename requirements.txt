@@ -1,0 +1,6 @@
+# Data Manipulation
+pandas
+numpy
+
+# Data Generation
+faker
