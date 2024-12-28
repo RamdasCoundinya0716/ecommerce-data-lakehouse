@@ -1,5 +1,6 @@
 venv
 notes.txt
+.env
 
 --terraform files to be ignored--
 .vscode
@@ -7,6 +8,7 @@ notes.txt
 *.tfvars
 .terraform/
 *.tfstate.backup
+*.terraform.tfstate.lock.info
 
 --data files--
 *.csv

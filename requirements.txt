@@ -4,3 +4,8 @@ numpy
 
 # Data Generation
 faker
+# azure
+azure-storage-blob
+
+# Misc
+python-dotenv
