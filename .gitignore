@@ -1,9 +1,12 @@
 venv
 notes.txt
+
 --terraform files to be ignored--
 .vscode
 *.tfstate
 *.tfvars
 .terraform/
+*.tfstate.backup
+
 --data files--
 *.csv
